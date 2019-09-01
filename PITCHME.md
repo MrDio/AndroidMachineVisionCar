@@ -1,5 +1,6 @@
 ### Autonomous Driving Android Car 
 developed by [B. Grau](https://github.com/CrazyBene) and [D. Lagamtzis](https://github.com/DimiHMC) (since 2018)
+Open an issue and help evolve :)
 
 <img src="assets/gitpitch/Cropped%20Car%20(small).png" width="450" height="290">
 ---
